@@ -64,3 +64,5 @@ gem 'pry-nav'
 gem 'net-smtp'
 
 gem 'whenever', require: false
+
+gem 'dotenv-rails'
