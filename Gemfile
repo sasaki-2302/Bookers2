@@ -62,3 +62,5 @@ gem 'pry-rails'
 gem 'pry-nav'
 
 gem 'net-smtp'
+
+gem 'whenever', require: false
